@@ -32,3 +32,10 @@ Ukrainian - native\
 Russian - fluent\
 English - A2\
 Spanish - A2
+***
+## Code example:
+```javascript
+function multiply (a, b) {
+return a * b
+}
+```
