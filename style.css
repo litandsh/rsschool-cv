@@ -1,0 +1,42 @@
+.wrapper {   
+    min-height: 100%; 
+    background-color: rgb(212, 211, 211);
+    padding-top: 70px;
+    padding-bottom: 70px;
+    }
+.content {
+    display: flex;
+    justify-content: space-evenly;
+    width: 1320px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    font-size: 24px;
+    }
+.col {
+    margin: 50px;
+    padding: 15px;
+    width: 40%;
+    }
+.rcol {
+    background-color: aliceblue;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 90px;
+}
+.lcol {
+    background-color: rgb(212, 212, 212);
+}
+h2 {
+    font-size: 46px;
+}
+.cont {
+    position: relative;
+    bottom: -490px;
+}
+h1 {
+    font: 56px;
+}
